@@ -1,5 +1,5 @@
 # 💫 About Me:
-With a B. Tech degree in Computer Science and Business Systems, I recently graduated. Having developed websites, WordPress websites, and backend of the websites, I am a coder and developer.<br><br>
+With a B.Sc. in Computer Science from SIES Nerul , I am a passionate coder and developer. I have experience in developing websites, WordPress websites, and backend systems for web applications. Having developed websites, WordPress websites, and backend of the websites, I am a coder and developer.<br><br>
 🔭 **I’m currently working on:**  <br>Web Applications and Mobile Applications.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Angular, GraphQL, Jenkins and Data Structures & Algos.
 
 ## 🌐 Socials:
